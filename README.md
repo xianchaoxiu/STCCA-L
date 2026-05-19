@@ -1,4 +1,4 @@
-# TCCA
+# STCCA-L
 
 The code in this toolbox implements ["Sparse Tensor CCA via Manifold Optimization for Multi-View Learning"](https://ieeexplore.ieee.org/abstract/document/11296916) by <i>Y. Zhu, W. Liu, X. Xiu, J. Sun</i>.
 
