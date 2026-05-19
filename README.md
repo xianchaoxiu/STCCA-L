@@ -1,6 +1,6 @@
 # TCCA
 
-The code in this toolbox implements ["Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis"](https://ieeexplore.ieee.org/abstract/document/10091146) by <i>J. Sun, X. Xiu, Y. Luo, W. Liu</i>.
+The code in this toolbox implements ["Sparse Tensor CCA via Manifold Optimization for Multi-View Learning"](https://ieeexplore.ieee.org/abstract/document/11296916) by <i>Y. Zhu, W. Liu, X. Xiu, J. Sun</i>.
 
 ![alt text](./framework.png)
 
@@ -12,13 +12,14 @@ Directly run demo.m for reproduction.
 ### Citation
 Please give credits to this paper if this code is useful and helpful for your research.
 
-     @article{sun2023learning,
-      title     = {Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis},
-      author    = {Sun, Jianqin and Xiu, Xianchao and Luo, Ziyan and Liu, Wanquan},
+     @article{zhu2025sparse,
+      title     = {Sparse Tensor CCA via Manifold Optimization for Multi-View Learning},
+      author    = {Zhu, Yanjiao and Liu, Wanquan and Xiu, Xianchao and Sun, Jianqin},
       journal   = {IEEE Transactions on Circuits and Systems for Video Technology},
-      year      = {2023},
-      volume    = {33},
-      number    = {10},
-      pages     = {5645-5654},
+      year      = {2026},
+      volume    = {36},
+      number    = {5},
+      pages     = {6299-6313},
       publisher = {IEEE}
      }
+
